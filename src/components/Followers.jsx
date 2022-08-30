@@ -6,9 +6,7 @@ import instagram from '../images/icon-instagram.svg'
 import up from '../images/icon-up.svg'
 import down from '../images/icon-down.svg'
 
-export default function 
-
-() {
+function Followers() {
   return (
     <section className='relative z-10 max-w-7xl mx-auto py-10 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4'>
 
@@ -77,3 +75,5 @@ export default function
     </section>
   )
 }
+
+export default Followers
