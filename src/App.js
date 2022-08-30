@@ -1,7 +1,7 @@
 import Header from "./components/Header";
-import Followersf from "./components/Followers";
-import Overview from "./components/Overview";
 import Followers from "./components/Followers";
+import Overview from "./components/Overview";
+
 
 function App() {
   return (
